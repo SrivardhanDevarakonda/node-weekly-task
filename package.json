@@ -1,0 +1,17 @@
+{
+  "name": "vardhan",
+  "version": "1.0.0",
+  "description": "berkadia sample project",
+  "main": "nodep1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srivardhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "curl": "^0.1.4",
+    "express": "^4.15.3",
+    "postman": "^0.2.0"
+  }
+}

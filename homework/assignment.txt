@@ -1,0 +1,24 @@
+WEEK1
+clean code(richard)
+Singleton class design pattern(scenarios)
+Decorator design pattern
+Angular's Dependancy Injection
+
+
+Generate random nos of a given no N & create M teams.(node js)
+ nodejs REPL
+asynchronous , callback
+event driven mechanism
+linker & loader
+
+WEEK 2
+fileread using promises   BLUEBIRD
+npm init (about)
+sample node project
+{transpilers 
+setting babel}
+intro async/await ES7
+
+routing
+how change detection works in angular?
+2text box ,1 dropdown  [calculator]
